@@ -1,0 +1,11 @@
+C:\Git\LongGone\CodePlayground\CodePlayground\bin\Debug\netcoreapp2.0\CodePlayground.deps.json
+C:\Git\LongGone\CodePlayground\CodePlayground\bin\Debug\netcoreapp2.0\CodePlayground.runtimeconfig.json
+C:\Git\LongGone\CodePlayground\CodePlayground\bin\Debug\netcoreapp2.0\CodePlayground.runtimeconfig.dev.json
+C:\Git\LongGone\CodePlayground\CodePlayground\bin\Debug\netcoreapp2.0\CodePlayground.dll
+C:\Git\LongGone\CodePlayground\CodePlayground\bin\Debug\netcoreapp2.0\CodePlayground.pdb
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.csprojResolveAssemblyReference.cache
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.csproj.CoreCompileInputs.cache
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.AssemblyInfoInputs.cache
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.AssemblyInfo.cs
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.dll
+C:\Git\LongGone\CodePlayground\CodePlayground\obj\Debug\netcoreapp2.0\CodePlayground.pdb
