@@ -36,6 +36,20 @@ namespace CodePlayground.Controllers
             return View();
         }
 
+        public IActionResult AudreyArt()
+        {
+            ViewData["Message"] = "Audrey's Art page.";
+
+            return View();
+        }
+
+        public IActionResult LillianArt()
+        {
+            ViewData["Message"] = "Lillian's Art page.";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
