@@ -50,6 +50,20 @@ namespace CodePlayground.Controllers
             return View();
         }
 
+        public IActionResult Todo()
+        {
+            ViewData["Message"] = "Todo list";
+
+            return View();
+        }
+
+        public IActionResult Garden()
+        {
+            ViewData["Message"] = "Garden Bot";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
